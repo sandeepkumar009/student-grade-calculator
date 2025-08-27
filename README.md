@@ -24,7 +24,7 @@ The implementation uses standard Java features. A `List<Double>` is used to hold
 
 ## 4. Testing
 
-[cite_start]Unit testing was performed using **JUnit 5**, as required[cite: 8]. The test suite in `GradeCalculatorTest.java` covers:
+Unit testing was performed using **JUnit 5**, as required. The test suite in `GradeCalculatorTest.java` covers:
 * A typical success scenario with multiple grades.
 * An edge case with a single grade.
 * Failure scenarios for both `null` and empty lists.
